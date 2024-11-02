@@ -5,7 +5,7 @@ Located in a peaceful beach town in New Jersey, our charming rental property is 
 ---
 
 ## House Front
-![House Front](/assets/images/froont3.webp)
+![House Front](https://github.com/DKOSOI/shorehouse/blob/gh-pages/assets/images/froont3.webp)
 
 A welcoming front entrance, perfect for making you feel right at home.
 
