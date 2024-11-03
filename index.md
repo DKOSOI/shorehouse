@@ -19,7 +19,7 @@ The backyard is perfect for relaxing afternoons, with plenty of greenery and a p
 ---
 
 ## Cozy Dining Area
-![Dining Room](assets/images/dining room.webp)
+![Dining Room](https://raw.githubusercontent.com/DKOSOI/shorehouse/refs/heads/gh-pages/assets/images/dining%20room.webp)
 
 Enjoy meals with your loved ones in this inviting dining room.
 
