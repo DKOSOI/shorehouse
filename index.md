@@ -61,4 +61,6 @@ An inviting porch where you can relax and enjoy the beach town ambiance.
 
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=ZGtub3p6bGVAZ21haWwuY29t&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 If you're interested in booking, please reach out to us at [info@beachtownrental.com](mailto:info@beachtownrental.com).
